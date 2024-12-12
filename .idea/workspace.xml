@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="669ea3a9-4883-4574-a9b4-697e6e2cad03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/opencart/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/opencart/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testrunner/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testrunner/OpenCartrunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testrunner/StartUber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepdef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/AppFeature/LoginFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Uber.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pzTw1Ooxap90GsMQXwPXLuk8JT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Cucumber.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StartUber.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/angeljoseph/Desktop/Cucumberpractise/src/test/resources/Testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OpenCartrunner.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Testrunner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/angeljoseph/Desktop/Cucumberpractise/src/test/resources/Testng.xml">
+    <configuration name="Cucumber" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeature/Uber.feature" />
+      <module name="Cucumberpractise" />
+      <shortenClasspath name="NONE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeature/Uber.feature" />
+      <shortenClasspath name="NONE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartUber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumberpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testrunner" />
+      <option name="MAIN_CLASS_NAME" value="Testrunner.StartUber" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCartrunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cucumberpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testrunner" />
+      <option name="MAIN_CLASS_NAME" value="Testrunner.OpenCartrunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/angeljoseph/Desktop/Cucumberpractise/src/test/resources/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cucumberpractise" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Cucumber" />
+      <item itemvalue="JUnit.StartUber" />
+      <item itemvalue="TestNG./Users/angeljoseph/Desktop/Cucumberpractise/src/test/resources/Testng.xml" />
+      <item itemvalue="TestNG.OpenCartrunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/angeljoseph/Desktop/Cucumberpractise/src/test/resources/Testng.xml" />
+        <item itemvalue="TestNG.OpenCartrunner" />
+        <item itemvalue="JUnit.StartUber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669ea3a9-4883-4574-a9b4-697e6e2cad03" name="Changes" comment="" />
+      <created>1733768138999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733768138999</updated>
+    </task>
+    <servers />
+  </component>
+</project>
