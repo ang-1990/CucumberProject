@@ -46,4 +46,8 @@ public class LoginPage {
         String forgotPwdPageUrl = driver.getCurrentUrl();
         return forgotPwdPageUrl;
     }
+
+    public void getUrl(){
+
+    }
 }
